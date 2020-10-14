@@ -22,14 +22,15 @@
 <a href="https://www.python.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>  </p>
 
 <h3 align="left">Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
+<p align="left"><a href="https://www.archlinux.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="linux" width="40" height="40"/></a> 
+ <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://www.latex-project.org/" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/latex.svg" alt="latex" width="40" height="40"/></a>
-<a href="https://www.archlinux.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="linux" width="40" height="40"/></a> 
 <a href="https://www.qt.io/qt-for-python" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/></a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a> 
+<a href="https://subversion.apache.org/" target="_blank"><img src="https://raw.githubusercontent.com/adamfairhead/webicons/4c14b73625c6cf6198e017a6e2e4fc89a3e28524/webicons/webicon-svn.svg" alt="qt" width="40" height="40"/></a> 
 <a href="https://www.vim.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/40cd6bc89a299dc50ac289f8e3b071d0dff49d9c/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/></a> 
+<a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/></a> 
 <a href="https://en.wikipedia.org/wiki/Z_shell" target="_blank"><img src="https://raw.githubusercontent.com/materialos/icons/23e72cd191c715d7ec914f13d4953840a79e4aa1/Files/Terminal.svg" alt="zsh" width="40" height="40"/></a></p>
 
 
