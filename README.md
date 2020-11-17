@@ -17,12 +17,12 @@
 
 
 <h3 align="left">Languages</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/android-1.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.haskell.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/></a>
 <a href="https://www.java.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/></a> 
 <a href="https://www.python.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>  </p>
 
+<p align="left"> <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/android-1.svg" alt="android" width="40" height="40"/> </a>
 <h3 align="left">Tools:</h3>
 <p align="left"><a href="https://www.archlinux.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/archlinux/archlinux-icon.svg" alt="arch" width="40" height="40"/></a> 
  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a>
@@ -41,4 +41,4 @@
 <p align="left"> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
 <a href="https://www.postgresql.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a> </p>
 
-My main OS of choice is `Arch Linuxi` paired with a tiling windows manager but I regularly use `Windows` during work. My favorite editors are `Vim` and `VS Code`.
+My main OS of choice is `Arch Linux` paired with a tiling windows manager but I regularly use `Windows` during work. My favorite editors are `Vim` and `VS Code`.
