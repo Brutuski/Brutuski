@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Adi Sirohi</h2>
-<h3 align="center">A passionate developer with an interest in all things Linux and security from Deutschland</h3>
+<h3 align="center">A passionate developer with an interest in all things Linux and security. ~/Deutschland</h3>
 
 - I Speak English _(native)_, Deutsch _(fluent)_, Hindi _(native)_
 
